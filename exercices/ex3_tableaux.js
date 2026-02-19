@@ -33,4 +33,4 @@ console.log("Résumé des notes :");
 console.log("notes:",notes)
 console.log("Moyenne :", moyenne);
 console.log("Meilleure note :", meilleureNote);
-console.log("Nombre de notes ≥ 10 :", nbSup10);
+console.log("Nombre de notes ≥ 10 :", nombresup10);
